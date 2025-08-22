@@ -2,7 +2,7 @@
 **Team Members**
 
 |     Name          | Roll No      |
-|----------------------------------|
+|-------------------|--------------|
 |Kodali Naga Sreeja | 2410030076   |
 |Bijju Adithi Yadav | 2410030228   |
 |Likitha Thumma     | 2410030229   |
