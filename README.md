@@ -8,6 +8,7 @@
 |Likitha Thumma     | 2410030229   |
 |H.Esha Manogna     | 2410030232   |
 |Malreddy Manogna   | 2410030430   |
+
 📌 Overview
 
 The Biometric Data Privacy Vault is a desktop application that acts like a digital safe. It allows users to encrypt and store sensitive files such as biometric data, documents, or photos. The system works completely offline, giving full privacy and control to the user.
