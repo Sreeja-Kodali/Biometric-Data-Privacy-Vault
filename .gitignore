@@ -1,0 +1,24 @@
+# Compiled class files
+*.class
+
+# Bin directory (compiled classes)
+bin/
+
+# Secret keys
+vault.key
+src/vault.key
+
+# Sensitive data directories
+encrypted_files/
+decrypted_files/
+authorized_faces/
+
+# Downloaded files not part of project
+gh.msi
+gh.zip
+latest.json
+
+# Eclipse settings (optional, uncomment if you don't want to share)
+# .settings/
+# .classpath
+# .project
